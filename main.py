@@ -1,6 +1,5 @@
-from curses.ascii import US
 from fastapi import FastAPI
-from models.user import User
+from schemas.user import User
 
 app = FastAPI()
 
