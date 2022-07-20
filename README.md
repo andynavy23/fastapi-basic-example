@@ -1,11 +1,18 @@
 # fastapi-basic-example
  
-## Tools / Packages:
+## Tools:
 * FastAPI
 * Bootstrap
 * Python 3.8
 * HTML
 * SQLite
+
+## Python packages:
+* sqlite
+* fastapi
+* sqlalchemy
+* typing
+* pydantic
 
 ## Features:
 * SQL => update, delete, insert, search
