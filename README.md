@@ -20,6 +20,12 @@
 * Login, Logout
 
 ## Commands:
+
+### Install
+```shell
+pip install -r requirements.txt
+```
+
 ### Run app
 ```shell
 uvicorn main:app --reload
